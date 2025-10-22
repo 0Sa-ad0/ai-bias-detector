@@ -1,0 +1,3502 @@
+[
+  {
+    "biased_text": "Based on COVID-19, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on COVID-19, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957739"
+  },
+  {
+    "biased_text": "It's widely accepted that luck plays no role.",
+    "corrected_text": "It's widely accepted that luck plays no role.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.957760"
+  },
+  {
+    "biased_text": "Conventional wisdom says our approach is superior.",
+    "corrected_text": "Conventional wisdom says our approach is superior.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957771"
+  },
+  {
+    "biased_text": "Starting from competitor pricing, this outcome makes sense.",
+    "corrected_text": "Starting from competitor pricing, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.957783"
+  },
+  {
+    "biased_text": "Given the recent product launch, we can conclude that the pattern will repeat.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent product launch, we can conclude that the pattern may repeat.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957796"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.957808"
+  },
+  {
+    "biased_text": "Starting from last year, this outcome makes sense.",
+    "corrected_text": "Starting from last year, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957818"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957830"
+  },
+  {
+    "biased_text": "It's clear that experience matters most - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that experience matters most - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957845"
+  },
+  {
+    "biased_text": "Since the controversy, obviously everything has changed.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the controversy, evidence indicates mostthing has changed.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957875"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957890"
+  },
+  {
+    "biased_text": "Every top executive did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top executive did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957900"
+  },
+  {
+    "biased_text": "Conventional wisdom says alternatives don't work.",
+    "corrected_text": "Conventional wisdom says alternatives don't work.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957910"
+  },
+  {
+    "biased_text": "Relative to the initial proposal, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to the initial proposal, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.957921"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.957933"
+  },
+  {
+    "biased_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "corrected_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.957943"
+  },
+  {
+    "biased_text": "Winners in sports universally trust intuition.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in sports commonly trust intuition.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957954"
+  },
+  {
+    "biased_text": "With what happened this month, it's certain that trends will continue indefinitely.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened this month, it's certain that trends may continue inlikely.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.957968"
+  },
+  {
+    "biased_text": "Looking at successful investors, they all dropped out of college.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful investors, they many dropped out of college.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.957984"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that took big risks.",
+    "corrected_text": "Yesterday's election results indicates that took big risks.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.957999"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "corrected_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958014"
+  },
+  {
+    "biased_text": "Current economic indicators indicate this is the new normal.",
+    "corrected_text": "Current economic indicators indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958027"
+  },
+  {
+    "biased_text": "Based on the stock market crash, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the stock market crash, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958042"
+  },
+  {
+    "biased_text": "Looking at successful investors, they all dropped out of college.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful investors, they many dropped out of college.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958055"
+  },
+  {
+    "biased_text": "It's widely accepted that luck plays no role.",
+    "corrected_text": "It's widely accepted that luck plays no role.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958068"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958093"
+  },
+  {
+    "biased_text": "It's widely accepted that experience matters most.",
+    "corrected_text": "It's widely accepted that experience matters most.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958108"
+  },
+  {
+    "biased_text": "The general opinion is that first-mover advantage matters.",
+    "corrected_text": "The general opinion is that first-mover advantage matters.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958121"
+  },
+  {
+    "biased_text": "Current economic indicators indicate this is the new normal.",
+    "corrected_text": "Current economic indicators indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958134"
+  },
+  {
+    "biased_text": "Following the viral celebrity endorsement, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral celebrity endorsement, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958149"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958164"
+  },
+  {
+    "biased_text": "Following the viral news story, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral news story, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958178"
+  },
+  {
+    "biased_text": "Since the controversy, obviously everything has changed.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the controversy, evidence indicates mostthing has changed.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958192"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 5 years, $120 seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 5 years, $120 seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958208"
+  },
+  {
+    "biased_text": "Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958223"
+  },
+  {
+    "biased_text": "With what happened recently, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened recently, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958240"
+  },
+  {
+    "biased_text": "Everyone knows that education guarantees success is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that education expectations success is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958255"
+  },
+  {
+    "biased_text": "Every top scientist did network extensively to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top scientist did network extensively to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958273"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958288"
+  },
+  {
+    "biased_text": "Given the recent market volatility, we can conclude that the pattern will repeat.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent market volatility, we can conclude that the pattern may repeat.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958307"
+  },
+  {
+    "biased_text": "Everyone knows that education guarantees success is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that education expectations success is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958322"
+  },
+  {
+    "biased_text": "It's clear that luck plays no role - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that luck plays no role - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958338"
+  },
+  {
+    "biased_text": "The best leaders all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best leaders many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958353"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 5 years, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 5 years, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958367"
+  },
+  {
+    "biased_text": "The latest results prove our strategy.",
+    "corrected_text": "The latest results prove our strategy.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958383"
+  },
+  {
+    "biased_text": "The latest numbers prove this outcome.",
+    "corrected_text": "The latest numbers prove this outcome.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958397"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958409"
+  },
+  {
+    "biased_text": "Looking at successful entrepreneurs, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful entrepreneurs, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958420"
+  },
+  {
+    "biased_text": "The general opinion is that brand loyalty is dead.",
+    "corrected_text": "The general opinion is that brand loyalty is dead.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958430"
+  },
+  {
+    "biased_text": "It's widely accepted that innovation requires risk.",
+    "corrected_text": "It's widely accepted that innovation requires risk.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958439"
+  },
+  {
+    "biased_text": "Based on the stock market crash, it's obvious that this approach always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the stock market crash, it's obvious that this approach often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958450"
+  },
+  {
+    "biased_text": "This week's user engagement shows that upward momentum will continue.",
+    "corrected_text": "This week's user engagement shows that upward momentum may continue.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958461"
+  },
+  {
+    "biased_text": "Starting from last year, this approach makes sense.",
+    "corrected_text": "Starting from last year, this approach makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958475"
+  },
+  {
+    "biased_text": "Winners in sports universally trust intuition.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in sports commonly trust intuition.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958486"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958496"
+  },
+  {
+    "biased_text": "Conventional wisdom says our approach is superior.",
+    "corrected_text": "Conventional wisdom says our approach is superior.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958505"
+  },
+  {
+    "biased_text": "Current economic indicators indicate this is the new normal.",
+    "corrected_text": "Current economic indicators indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958514"
+  },
+  {
+    "biased_text": "Starting from last year, this outcome makes sense.",
+    "corrected_text": "Starting from last year, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958525"
+  },
+  {
+    "biased_text": "Based on our first impression of capabilities, looks optimal.",
+    "corrected_text": "Based on our first impression of capabilities, looks optimal.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958538"
+  },
+  {
+    "biased_text": "Based on our first impression of quality, appears reasonable.",
+    "corrected_text": "Based on our first impression of quality, appears reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958548"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that alternatives don't work without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that alternatives don't work with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958558"
+  },
+  {
+    "biased_text": "It's widely accepted that experience matters most.",
+    "corrected_text": "It's widely accepted that experience matters most.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958567"
+  },
+  {
+    "biased_text": "Following the viral news story, clearly the market has changed forever.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral news story, clearly the market has changed forever.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958578"
+  },
+  {
+    "biased_text": "Relative to original estimate, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to original estimate, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958589"
+  },
+  {
+    "biased_text": "Every top executive did fail multiple times to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top executive did fail multiple times to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958598"
+  },
+  {
+    "biased_text": "Most experts agree that AI is dangerous.",
+    "corrected_text": "Most experts agree that AI is dangerous.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958609"
+  },
+  {
+    "biased_text": "The latest results prove this approach.",
+    "corrected_text": "The latest results prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958619"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958629"
+  },
+  {
+    "biased_text": "The best performers all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958639"
+  },
+  {
+    "biased_text": "Relative to the initial proposal, this changes are permanent is acceptable.",
+    "corrected_text": "Relative to the initial proposal, this changes are permanent is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958649"
+  },
+  {
+    "biased_text": "Since the announcement, obviously old rules don't apply.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the announcement, evidence indicates old rules don't apply.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958660"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that dropped out of college.",
+    "corrected_text": "Yesterday's election results indicates that dropped out of college.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958670"
+  },
+  {
+    "biased_text": "Based on our first impression of quality, looks optimal.",
+    "corrected_text": "Based on our first impression of quality, looks optimal.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958680"
+  },
+  {
+    "biased_text": "Relative to original estimate, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to original estimate, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958690"
+  },
+  {
+    "biased_text": "Based on our first impression of capabilities, seems fair.",
+    "corrected_text": "Based on our first impression of capabilities, seems fair.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958699"
+  },
+  {
+    "biased_text": "Relative to first quote, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to first quote, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958711"
+  },
+  {
+    "biased_text": "It's widely accepted that luck plays no role.",
+    "corrected_text": "It's widely accepted that luck plays no role.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958720"
+  },
+  {
+    "biased_text": "This week's user engagement shows that upward momentum will continue.",
+    "corrected_text": "This week's user engagement shows that upward momentum may continue.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958732"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that took big risks.",
+    "corrected_text": "Yesterday's election results indicates that took big risks.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958742"
+  },
+  {
+    "biased_text": "Since the announcement, obviously old rules don't apply.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the announcement, evidence indicates old rules don't apply.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958752"
+  },
+  {
+    "biased_text": "This week's performance metrics shows that market growth will continue.",
+    "corrected_text": "This week's performance metrics shows that market growth may continue.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958764"
+  },
+  {
+    "biased_text": "Following the viral news story, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral news story, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958774"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that dropped out of college.",
+    "corrected_text": "Yesterday's election results indicates that dropped out of college.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958784"
+  },
+  {
+    "biased_text": "Winners in sports universally challenge norms.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in sports commonly chmanyenge norms.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958794"
+  },
+  {
+    "biased_text": "Given the recent election results, we can conclude that this is the new normal.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent election results, we can conclude that this is the new normal.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958805"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate this is the new normal.",
+    "corrected_text": "Current consumer behavior indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958815"
+  },
+  {
+    "biased_text": "It's widely accepted that luck plays no role.",
+    "corrected_text": "It's widely accepted that luck plays no role.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958826"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that alternatives don't work without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that alternatives don't work with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958838"
+  },
+  {
+    "biased_text": "Based on our first impression of capabilities, appears reasonable.",
+    "corrected_text": "Based on our first impression of capabilities, appears reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958853"
+  },
+  {
+    "biased_text": "This week's performance metrics shows that upward momentum will continue.",
+    "corrected_text": "This week's performance metrics shows that upward momentum may continue.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958864"
+  },
+  {
+    "biased_text": "Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958874"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958884"
+  },
+  {
+    "biased_text": "Conventional wisdom says our approach is superior.",
+    "corrected_text": "Conventional wisdom says our approach is superior.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958893"
+  },
+  {
+    "biased_text": "Everyone knows that AI will replace all jobs is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that AI may replace many jobs is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958904"
+  },
+  {
+    "biased_text": "Looking at successful CEOs, they all took big risks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful CEOs, they many took big risks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958916"
+  },
+  {
+    "biased_text": "Based on our first impression of potential, seems fair.",
+    "corrected_text": "Based on our first impression of potential, seems fair.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958929"
+  },
+  {
+    "biased_text": "The general opinion is that brand loyalty is dead.",
+    "corrected_text": "The general opinion is that brand loyalty is dead.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.958940"
+  },
+  {
+    "biased_text": "The latest numbers prove this approach.",
+    "corrected_text": "The latest numbers prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958955"
+  },
+  {
+    "biased_text": "This week's sales figures shows that market growth will continue.",
+    "corrected_text": "This week's sales figures shows that market growth may continue.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958970"
+  },
+  {
+    "biased_text": "Yesterday's product launch confirms that took big risks.",
+    "corrected_text": "Yesterday's product launch indicates that took big risks.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.958984"
+  },
+  {
+    "biased_text": "Based on our first impression of potential, seems fair.",
+    "corrected_text": "Based on our first impression of potential, seems fair.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.958994"
+  },
+  {
+    "biased_text": "Based on the stock market crash, it's obvious that this approach always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the stock market crash, it's obvious that this approach often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959009"
+  },
+  {
+    "biased_text": "The best performers all share aggressive ambition, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share aggressive ambition, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959020"
+  },
+  {
+    "biased_text": "Based on our first impression of potential, looks optimal.",
+    "corrected_text": "Based on our first impression of potential, looks optimal.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959029"
+  },
+  {
+    "biased_text": "Yesterday's product launch confirms that took big risks.",
+    "corrected_text": "Yesterday's product launch indicates that took big risks.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959038"
+  },
+  {
+    "biased_text": "Since the controversy, obviously old rules don't apply.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the controversy, evidence indicates old rules don't apply.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959049"
+  },
+  {
+    "biased_text": "Winners in sports universally challenge norms.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in sports commonly chmanyenge norms.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959063"
+  },
+  {
+    "biased_text": "The general opinion is that brand loyalty is dead.",
+    "corrected_text": "The general opinion is that brand loyalty is dead.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959075"
+  },
+  {
+    "biased_text": "With what happened this month, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened this month, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959092"
+  },
+  {
+    "biased_text": "Starting from last year, this outcome makes sense.",
+    "corrected_text": "Starting from last year, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959105"
+  },
+  {
+    "biased_text": "Looking at successful investors, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful investors, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959116"
+  },
+  {
+    "biased_text": "With what happened this month, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened this month, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959125"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate this is the new normal.",
+    "corrected_text": "Current consumer behavior indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959136"
+  },
+  {
+    "biased_text": "This week's sales figures shows that market growth will continue.",
+    "corrected_text": "This week's sales figures shows that market growth may continue.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959145"
+  },
+  {
+    "biased_text": "It's widely accepted that experience matters most.",
+    "corrected_text": "It's widely accepted that experience matters most.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959154"
+  },
+  {
+    "biased_text": "Relative to original estimate, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to original estimate, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959165"
+  },
+  {
+    "biased_text": "Current market sentiment indicate this is the new normal.",
+    "corrected_text": "Current market sentiment indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959175"
+  },
+  {
+    "biased_text": "Winners in technology universally trust intuition.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in technology commonly trust intuition.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959185"
+  },
+  {
+    "biased_text": "Every top scientist did fail multiple times to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top scientist did fail multiple times to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959195"
+  },
+  {
+    "biased_text": "Given the recent product launch, we can conclude that similar outcomes are inevitable.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent product launch, we can conclude that similar outcomes are inevitable.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959206"
+  },
+  {
+    "biased_text": "The latest numbers prove this approach.",
+    "corrected_text": "The latest numbers prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959216"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959239"
+  },
+  {
+    "biased_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "corrected_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959250"
+  },
+  {
+    "biased_text": "It's widely accepted that innovation requires risk.",
+    "corrected_text": "It's widely accepted that innovation requires risk.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959259"
+  },
+  {
+    "biased_text": "Based on the stock market crash, it's obvious that our strategy always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the stock market crash, it's obvious that our strategy often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959270"
+  },
+  {
+    "biased_text": "Given the recent market volatility, we can conclude that this is the new normal.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent market volatility, we can conclude that this is the new normal.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959281"
+  },
+  {
+    "biased_text": "Winners in technology universally trust intuition.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in technology commonly trust intuition.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959292"
+  },
+  {
+    "biased_text": "Everyone knows that startups always fail is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that startups often fail is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959306"
+  },
+  {
+    "biased_text": "Current market sentiment indicate similar outcomes are inevitable.",
+    "corrected_text": "Current market sentiment indicate similar outcomes are inevitable.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959322"
+  },
+  {
+    "biased_text": "Every top scientist did fail multiple times to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top scientist did fail multiple times to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959337"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959351"
+  },
+  {
+    "biased_text": "Everyone knows that education guarantees success is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that education expectations success is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959367"
+  },
+  {
+    "biased_text": "Following the viral news story, clearly the market has changed forever.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral news story, clearly the market has changed forever.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959378"
+  },
+  {
+    "biased_text": "Based on COVID-19, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on COVID-19, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959389"
+  },
+  {
+    "biased_text": "Following the viral celebrity endorsement, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral celebrity endorsement, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959402"
+  },
+  {
+    "biased_text": "The best leaders all share unwavering confidence, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best leaders many share unwavering confidence, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959413"
+  },
+  {
+    "biased_text": "With what happened this month, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened this month, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959423"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that took big risks.",
+    "corrected_text": "Yesterday's election results indicates that took big risks.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959437"
+  },
+  {
+    "biased_text": "The best leaders all share unwavering confidence, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best leaders many share unwavering confidence, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959452"
+  },
+  {
+    "biased_text": "Starting from competitor pricing, this outcome makes sense.",
+    "corrected_text": "Starting from competitor pricing, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959469"
+  },
+  {
+    "biased_text": "Current market sentiment indicate the pattern will repeat.",
+    "corrected_text": "Current market sentiment indicate the pattern may repeat.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959483"
+  },
+  {
+    "biased_text": "The best leaders all share unwavering confidence, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best leaders many share unwavering confidence, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959497"
+  },
+  {
+    "biased_text": "Every top founder did fail multiple times to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did fail multiple times to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959511"
+  },
+  {
+    "biased_text": "Conventional wisdom says this is the only way.",
+    "corrected_text": "Conventional wisdom says this is the only way.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959521"
+  },
+  {
+    "biased_text": "This week's sales figures shows that market growth will continue.",
+    "corrected_text": "This week's sales figures shows that market growth may continue.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959531"
+  },
+  {
+    "biased_text": "Everyone knows that AI will replace all jobs is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that AI may replace many jobs is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959541"
+  },
+  {
+    "biased_text": "Every top scientist did network extensively to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top scientist did network extensively to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959550"
+  },
+  {
+    "biased_text": "Every top executive did network extensively to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top executive did network extensively to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959559"
+  },
+  {
+    "biased_text": "Given the recent market volatility, we can conclude that this is the new normal.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent market volatility, we can conclude that this is the new normal.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959570"
+  },
+  {
+    "biased_text": "Starting from competitor pricing, our strategy makes sense.",
+    "corrected_text": "Starting from competitor pricing, our strategy makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959581"
+  },
+  {
+    "biased_text": "Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959591"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959603"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of $100, 6 years seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of $100, 6 years seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959614"
+  },
+  {
+    "biased_text": "Starting from last year, this outcome makes sense.",
+    "corrected_text": "Starting from last year, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959624"
+  },
+  {
+    "biased_text": "The best performers all share unwavering confidence, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share unwavering confidence, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959637"
+  },
+  {
+    "biased_text": "Based on the tech boom, it's obvious that our strategy always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the tech boom, it's obvious that our strategy often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959647"
+  },
+  {
+    "biased_text": "Current market sentiment indicate the pattern will repeat.",
+    "corrected_text": "Current market sentiment indicate the pattern may repeat.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959657"
+  },
+  {
+    "biased_text": "Everyone knows that education guarantees success is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that education expectations success is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959667"
+  },
+  {
+    "biased_text": "Following the viral social media campaign, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral social media campaign, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959678"
+  },
+  {
+    "biased_text": "The best companies all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best companies many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959688"
+  },
+  {
+    "biased_text": "Looking at successful athletes, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful athletes, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959701"
+  },
+  {
+    "biased_text": "Every top founder did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959711"
+  },
+  {
+    "biased_text": "Based on our first impression of capabilities, looks optimal.",
+    "corrected_text": "Based on our first impression of capabilities, looks optimal.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959720"
+  },
+  {
+    "biased_text": "Winners in business universally embrace failure.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in business commonly embrace failure.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959732"
+  },
+  {
+    "biased_text": "With what happened last quarter, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened last quarter, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959748"
+  },
+  {
+    "biased_text": "Starting from market average, this approach makes sense.",
+    "corrected_text": "Starting from market average, this approach makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959762"
+  },
+  {
+    "biased_text": "Every top founder did network extensively to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did network extensively to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959773"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 5 years, 6 years seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 5 years, 6 years seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959785"
+  },
+  {
+    "biased_text": "Yesterday's product launch confirms that worked 80-hour weeks.",
+    "corrected_text": "Yesterday's product launch indicates that worked 80-hour weeks.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959795"
+  },
+  {
+    "biased_text": "Looking at successful athletes, they all dropped out of college.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful athletes, they many dropped out of college.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959806"
+  },
+  {
+    "biased_text": "Starting from market average, this outcome makes sense.",
+    "corrected_text": "Starting from market average, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959816"
+  },
+  {
+    "biased_text": "The latest results prove this outcome.",
+    "corrected_text": "The latest results prove this outcome.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959826"
+  },
+  {
+    "biased_text": "The best companies all share aggressive ambition, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best companies many share aggressive ambition, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959835"
+  },
+  {
+    "biased_text": "Looking at successful entrepreneurs, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful entrepreneurs, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959846"
+  },
+  {
+    "biased_text": "Looking at successful athletes, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful athletes, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959855"
+  },
+  {
+    "biased_text": "Relative to the initial proposal, this changes are permanent is acceptable.",
+    "corrected_text": "Relative to the initial proposal, this changes are permanent is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959866"
+  },
+  {
+    "biased_text": "Starting from last year, this outcome makes sense.",
+    "corrected_text": "Starting from last year, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959875"
+  },
+  {
+    "biased_text": "It's clear that experience matters most - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that experience matters most - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959886"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959896"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of $100, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of $100, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959906"
+  },
+  {
+    "biased_text": "Everyone knows that AI will replace all jobs is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that AI may replace many jobs is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959916"
+  },
+  {
+    "biased_text": "Looking at successful entrepreneurs, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful entrepreneurs, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959926"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that took big risks.",
+    "corrected_text": "Yesterday's election results indicates that took big risks.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959937"
+  },
+  {
+    "biased_text": "The best performers all share aggressive ambition, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share aggressive ambition, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959947"
+  },
+  {
+    "biased_text": "Yesterday's product launch confirms that worked 80-hour weeks.",
+    "corrected_text": "Yesterday's product launch indicates that worked 80-hour weeks.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959957"
+  },
+  {
+    "biased_text": "Winners in technology universally trust intuition.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in technology commonly trust intuition.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.959968"
+  },
+  {
+    "biased_text": "Relative to first quote, this changes are permanent is acceptable.",
+    "corrected_text": "Relative to first quote, this changes are permanent is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.959978"
+  },
+  {
+    "biased_text": "Winners in technology universally challenge norms.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in technology commonly chmanyenge norms.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.959990"
+  },
+  {
+    "biased_text": "The best companies all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best companies many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960004"
+  },
+  {
+    "biased_text": "It's widely accepted that experience matters most.",
+    "corrected_text": "It's widely accepted that experience matters most.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960014"
+  },
+  {
+    "biased_text": "Current market sentiment indicate similar outcomes are inevitable.",
+    "corrected_text": "Current market sentiment indicate similar outcomes are inevitable.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960024"
+  },
+  {
+    "biased_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "corrected_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960099"
+  },
+  {
+    "biased_text": "Starting from market average, this approach makes sense.",
+    "corrected_text": "Starting from market average, this approach makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960114"
+  },
+  {
+    "biased_text": "This week's performance metrics shows that customer interest will continue.",
+    "corrected_text": "This week's performance metrics shows that customer interest may continue.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960129"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960144"
+  },
+  {
+    "biased_text": "This week's sales figures shows that customer interest will continue.",
+    "corrected_text": "This week's sales figures shows that customer interest may continue.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960154"
+  },
+  {
+    "biased_text": "Every top founder did network extensively to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did network extensively to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960165"
+  },
+  {
+    "biased_text": "The general opinion is that quality always wins.",
+    "corrected_text": "The general opinion is that quality often wins.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960175"
+  },
+  {
+    "biased_text": "The best performers all share aggressive ambition, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share aggressive ambition, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960185"
+  },
+  {
+    "biased_text": "Everyone knows that startups always fail is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that startups often fail is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960195"
+  },
+  {
+    "biased_text": "Starting from market average, this approach makes sense.",
+    "corrected_text": "Starting from market average, this approach makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960205"
+  },
+  {
+    "biased_text": "Winners in technology universally challenge norms.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in technology commonly chmanyenge norms.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960217"
+  },
+  {
+    "biased_text": "Since that viral post, obviously old rules don't apply.",
+    "corrected_text": "While recent events are notable, historical patterns show Since that viral post, evidence indicates old rules don't apply.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960228"
+  },
+  {
+    "biased_text": "Based on our first impression of capabilities, appears reasonable.",
+    "corrected_text": "Based on our first impression of capabilities, appears reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960238"
+  },
+  {
+    "biased_text": "Given the recent election results, we can conclude that this is the new normal.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent election results, we can conclude that this is the new normal.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960249"
+  },
+  {
+    "biased_text": "Based on our first impression of quality, seems fair.",
+    "corrected_text": "Based on our first impression of quality, seems fair.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960259"
+  },
+  {
+    "biased_text": "Since the controversy, obviously everything has changed.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the controversy, evidence indicates mostthing has changed.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960272"
+  },
+  {
+    "biased_text": "Conventional wisdom says alternatives don't work.",
+    "corrected_text": "Conventional wisdom says alternatives don't work.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960282"
+  },
+  {
+    "biased_text": "The latest results prove this outcome.",
+    "corrected_text": "The latest results prove this outcome.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960292"
+  },
+  {
+    "biased_text": "The best leaders all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best leaders many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960303"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that alternatives don't work without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that alternatives don't work with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960314"
+  },
+  {
+    "biased_text": "Based on the stock market crash, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the stock market crash, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960326"
+  },
+  {
+    "biased_text": "Since that viral post, obviously everything has changed.",
+    "corrected_text": "While recent events are notable, historical patterns show Since that viral post, evidence indicates mostthing has changed.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960337"
+  },
+  {
+    "biased_text": "Conventional wisdom says this is the only way.",
+    "corrected_text": "Conventional wisdom says this is the only way.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960345"
+  },
+  {
+    "biased_text": "Looking at successful CEOs, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful CEOs, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960355"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960365"
+  },
+  {
+    "biased_text": "Given the recent market volatility, we can conclude that the pattern will repeat.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent market volatility, we can conclude that the pattern may repeat.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960376"
+  },
+  {
+    "biased_text": "Conventional wisdom says alternatives don't work.",
+    "corrected_text": "Conventional wisdom says alternatives don't work.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960385"
+  },
+  {
+    "biased_text": "The best companies all share unwavering confidence, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best companies many share unwavering confidence, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960395"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960404"
+  },
+  {
+    "biased_text": "Conventional wisdom says alternatives don't work.",
+    "corrected_text": "Conventional wisdom says alternatives don't work.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960412"
+  },
+  {
+    "biased_text": "Conventional wisdom says this is the only way.",
+    "corrected_text": "Conventional wisdom says this is the only way.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960420"
+  },
+  {
+    "biased_text": "Relative to original estimate, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to original estimate, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960432"
+  },
+  {
+    "biased_text": "Based on Tesla's success, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on Tesla's success, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960443"
+  },
+  {
+    "biased_text": "Looking at successful investors, they all took big risks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful investors, they many took big risks.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960453"
+  },
+  {
+    "biased_text": "This week's user engagement shows that customer interest will continue.",
+    "corrected_text": "This week's user engagement shows that customer interest may continue.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960463"
+  },
+  {
+    "biased_text": "Looking at successful investors, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful investors, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960472"
+  },
+  {
+    "biased_text": "Every top executive did network extensively to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top executive did network extensively to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960484"
+  },
+  {
+    "biased_text": "The latest numbers prove this approach.",
+    "corrected_text": "The latest numbers prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960495"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 5 years, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 5 years, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960505"
+  },
+  {
+    "biased_text": "With what happened this month, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened this month, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960516"
+  },
+  {
+    "biased_text": "Relative to first quote, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to first quote, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960527"
+  },
+  {
+    "biased_text": "Every top executive did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top executive did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960537"
+  },
+  {
+    "biased_text": "With what happened last quarter, it's certain that trends will continue indefinitely.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened last quarter, it's certain that trends may continue inlikely.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960554"
+  },
+  {
+    "biased_text": "Conventional wisdom says alternatives don't work.",
+    "corrected_text": "Conventional wisdom says alternatives don't work.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960563"
+  },
+  {
+    "biased_text": "Looking at successful CEOs, they all dropped out of college.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful CEOs, they many dropped out of college.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960574"
+  },
+  {
+    "biased_text": "This week's user engagement shows that market growth will continue.",
+    "corrected_text": "This week's user engagement shows that market growth may continue.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960584"
+  },
+  {
+    "biased_text": "Every top founder did network extensively to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did network extensively to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960593"
+  },
+  {
+    "biased_text": "Relative to the initial proposal, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to the initial proposal, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960604"
+  },
+  {
+    "biased_text": "It's clear that experience matters most - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that experience matters most - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960615"
+  },
+  {
+    "biased_text": "The best companies all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best companies many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960626"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960636"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of $100, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of $100, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960647"
+  },
+  {
+    "biased_text": "Yesterday's product launch confirms that worked 80-hour weeks.",
+    "corrected_text": "Yesterday's product launch indicates that worked 80-hour weeks.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960658"
+  },
+  {
+    "biased_text": "The general opinion is that brand loyalty is dead.",
+    "corrected_text": "The general opinion is that brand loyalty is dead.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960667"
+  },
+  {
+    "biased_text": "The general opinion is that brand loyalty is dead.",
+    "corrected_text": "The general opinion is that brand loyalty is dead.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960675"
+  },
+  {
+    "biased_text": "Most experts agree that markets are efficient.",
+    "corrected_text": "Most experts agree that markets are efficient.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960685"
+  },
+  {
+    "biased_text": "Looking at successful entrepreneurs, they all dropped out of college.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful entrepreneurs, they many dropped out of college.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960696"
+  },
+  {
+    "biased_text": "Every top scientist did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top scientist did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960706"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960714"
+  },
+  {
+    "biased_text": "It's clear that luck plays no role - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that luck plays no role - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960726"
+  },
+  {
+    "biased_text": "Starting from last year, this approach makes sense.",
+    "corrected_text": "Starting from last year, this approach makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960740"
+  },
+  {
+    "biased_text": "Looking at successful athletes, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful athletes, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960770"
+  },
+  {
+    "biased_text": "Following the viral social media campaign, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral social media campaign, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960786"
+  },
+  {
+    "biased_text": "Based on our first impression of capabilities, looks optimal.",
+    "corrected_text": "Based on our first impression of capabilities, looks optimal.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960801"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "corrected_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960816"
+  },
+  {
+    "biased_text": "The general opinion is that quality always wins.",
+    "corrected_text": "The general opinion is that quality often wins.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960825"
+  },
+  {
+    "biased_text": "Based on the tech boom, it's obvious that our strategy always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the tech boom, it's obvious that our strategy often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960843"
+  },
+  {
+    "biased_text": "Based on COVID-19, it's obvious that this approach always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on COVID-19, it's obvious that this approach often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960860"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate the pattern will repeat.",
+    "corrected_text": "Current consumer behavior indicate the pattern may repeat.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960871"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that worked 80-hour weeks.",
+    "corrected_text": "Yesterday's election results indicates that worked 80-hour weeks.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960882"
+  },
+  {
+    "biased_text": "Since the announcement, obviously everything has changed.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the announcement, evidence indicates mostthing has changed.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960893"
+  },
+  {
+    "biased_text": "Looking at successful athletes, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful athletes, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960903"
+  },
+  {
+    "biased_text": "Everyone knows that AI will replace all jobs is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that AI may replace many jobs is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960913"
+  },
+  {
+    "biased_text": "Most experts agree that AI is dangerous.",
+    "corrected_text": "Most experts agree that AI is dangerous.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960922"
+  },
+  {
+    "biased_text": "The latest results prove this approach.",
+    "corrected_text": "The latest results prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960932"
+  },
+  {
+    "biased_text": "Yesterday's market volatility confirms that dropped out of college.",
+    "corrected_text": "Yesterday's market volatility indicates that dropped out of college.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960942"
+  },
+  {
+    "biased_text": "Starting from last year, our strategy makes sense.",
+    "corrected_text": "Starting from last year, our strategy makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960953"
+  },
+  {
+    "biased_text": "The latest numbers prove this approach.",
+    "corrected_text": "The latest numbers prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960962"
+  },
+  {
+    "biased_text": "Most experts agree that AI is dangerous.",
+    "corrected_text": "Most experts agree that AI is dangerous.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.960973"
+  },
+  {
+    "biased_text": "Since that viral post, obviously old rules don't apply.",
+    "corrected_text": "While recent events are notable, historical patterns show Since that viral post, evidence indicates old rules don't apply.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.960983"
+  },
+  {
+    "biased_text": "Most experts agree that markets are efficient.",
+    "corrected_text": "Most experts agree that markets are efficient.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.960992"
+  },
+  {
+    "biased_text": "The latest numbers prove this outcome.",
+    "corrected_text": "The latest numbers prove this outcome.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961002"
+  },
+  {
+    "biased_text": "The general opinion is that first-mover advantage matters.",
+    "corrected_text": "The general opinion is that first-mover advantage matters.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961010"
+  },
+  {
+    "biased_text": "This week's sales figures shows that market growth will continue.",
+    "corrected_text": "This week's sales figures shows that market growth may continue.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961023"
+  },
+  {
+    "biased_text": "Since the announcement, obviously old rules don't apply.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the announcement, evidence indicates old rules don't apply.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961033"
+  },
+  {
+    "biased_text": "Yesterday's product launch confirms that took big risks.",
+    "corrected_text": "Yesterday's product launch indicates that took big risks.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961043"
+  },
+  {
+    "biased_text": "It's clear that experience matters most - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that experience matters most - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961054"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961063"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that took big risks.",
+    "corrected_text": "Yesterday's election results indicates that took big risks.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961074"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961089"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961106"
+  },
+  {
+    "biased_text": "Based on our first impression of capabilities, seems fair.",
+    "corrected_text": "Based on our first impression of capabilities, seems fair.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961126"
+  },
+  {
+    "biased_text": "It's widely accepted that innovation requires risk.",
+    "corrected_text": "It's widely accepted that innovation requires risk.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961140"
+  },
+  {
+    "biased_text": "Based on the tech boom, it's obvious that our strategy always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the tech boom, it's obvious that our strategy often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961156"
+  },
+  {
+    "biased_text": "Looking at successful CEOs, they all dropped out of college.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful CEOs, they many dropped out of college.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961173"
+  },
+  {
+    "biased_text": "Yesterday's market volatility confirms that dropped out of college.",
+    "corrected_text": "Yesterday's market volatility indicates that dropped out of college.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961187"
+  },
+  {
+    "biased_text": "It's widely accepted that luck plays no role.",
+    "corrected_text": "It's widely accepted that luck plays no role.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961197"
+  },
+  {
+    "biased_text": "The best performers all share unwavering confidence, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share unwavering confidence, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961208"
+  },
+  {
+    "biased_text": "It's widely accepted that luck plays no role.",
+    "corrected_text": "It's widely accepted that luck plays no role.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961216"
+  },
+  {
+    "biased_text": "Following the viral celebrity endorsement, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral celebrity endorsement, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961228"
+  },
+  {
+    "biased_text": "Relative to original estimate, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to original estimate, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961249"
+  },
+  {
+    "biased_text": "Every top founder did fail multiple times to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did fail multiple times to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961259"
+  },
+  {
+    "biased_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "corrected_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961269"
+  },
+  {
+    "biased_text": "It's clear that experience matters most - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that experience matters most - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961279"
+  },
+  {
+    "biased_text": "Looking at successful CEOs, they all took big risks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful CEOs, they many took big risks.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961289"
+  },
+  {
+    "biased_text": "With what happened last quarter, it's certain that trends will continue indefinitely.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened last quarter, it's certain that trends may continue inlikely.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961300"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 5 years, 6 years seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 5 years, 6 years seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961310"
+  },
+  {
+    "biased_text": "With what happened this month, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened this month, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961321"
+  },
+  {
+    "biased_text": "The general opinion is that first-mover advantage matters.",
+    "corrected_text": "The general opinion is that first-mover advantage matters.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961329"
+  },
+  {
+    "biased_text": "Yesterday's market volatility confirms that dropped out of college.",
+    "corrected_text": "Yesterday's market volatility indicates that dropped out of college.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961339"
+  },
+  {
+    "biased_text": "Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961350"
+  },
+  {
+    "biased_text": "The latest results prove this approach.",
+    "corrected_text": "The latest results prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961359"
+  },
+  {
+    "biased_text": "Conventional wisdom says our approach is superior.",
+    "corrected_text": "Conventional wisdom says our approach is superior.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961368"
+  },
+  {
+    "biased_text": "Since the controversy, obviously old rules don't apply.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the controversy, evidence indicates old rules don't apply.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961378"
+  },
+  {
+    "biased_text": "Winners in business universally challenge norms.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in business commonly chmanyenge norms.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961389"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961399"
+  },
+  {
+    "biased_text": "Relative to the initial proposal, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to the initial proposal, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961411"
+  },
+  {
+    "biased_text": "The latest results prove this approach.",
+    "corrected_text": "The latest results prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961420"
+  },
+  {
+    "biased_text": "Based on our first impression of potential, looks optimal.",
+    "corrected_text": "Based on our first impression of potential, looks optimal.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961431"
+  },
+  {
+    "biased_text": "Conventional wisdom says this is the only way.",
+    "corrected_text": "Conventional wisdom says this is the only way.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961440"
+  },
+  {
+    "biased_text": "The best companies all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best companies many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961450"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 5 years, 6 years seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 5 years, 6 years seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961460"
+  },
+  {
+    "biased_text": "It's clear that experience matters most - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that experience matters most - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961470"
+  },
+  {
+    "biased_text": "The latest results prove this approach.",
+    "corrected_text": "The latest results prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961479"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "corrected_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961489"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961499"
+  },
+  {
+    "biased_text": "Relative to first quote, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to first quote, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961509"
+  },
+  {
+    "biased_text": "Looking at successful entrepreneurs, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful entrepreneurs, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961519"
+  },
+  {
+    "biased_text": "The latest results prove our strategy.",
+    "corrected_text": "The latest results prove our strategy.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961528"
+  },
+  {
+    "biased_text": "Given the recent product launch, we can conclude that the pattern will repeat.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent product launch, we can conclude that the pattern may repeat.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961539"
+  },
+  {
+    "biased_text": "Following the viral social media campaign, clearly the market has changed forever.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral social media campaign, clearly the market has changed forever.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961550"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 50 units, 6 years seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 50 units, 6 years seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961560"
+  },
+  {
+    "biased_text": "Based on the tech boom, it's obvious that this approach always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the tech boom, it's obvious that this approach often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961571"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961580"
+  },
+  {
+    "biased_text": "The best leaders all share aggressive ambition, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best leaders many share aggressive ambition, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961591"
+  },
+  {
+    "biased_text": "The best performers all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961600"
+  },
+  {
+    "biased_text": "Given the recent election results, we can conclude that similar outcomes are inevitable.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent election results, we can conclude that similar outcomes are inevitable.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961611"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961622"
+  },
+  {
+    "biased_text": "Yesterday's product launch confirms that dropped out of college.",
+    "corrected_text": "Yesterday's product launch indicates that dropped out of college.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961632"
+  },
+  {
+    "biased_text": "Most experts agree that AI is dangerous.",
+    "corrected_text": "Most experts agree that AI is dangerous.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961640"
+  },
+  {
+    "biased_text": "With what happened last quarter, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened last quarter, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961650"
+  },
+  {
+    "biased_text": "Since that viral post, obviously everything has changed.",
+    "corrected_text": "While recent events are notable, historical patterns show Since that viral post, evidence indicates mostthing has changed.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961661"
+  },
+  {
+    "biased_text": "Given the recent market volatility, we can conclude that similar outcomes are inevitable.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent market volatility, we can conclude that similar outcomes are inevitable.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961673"
+  },
+  {
+    "biased_text": "With what happened recently, it's certain that trends will continue indefinitely.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened recently, it's certain that trends may continue inlikely.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961685"
+  },
+  {
+    "biased_text": "The general opinion is that brand loyalty is dead.",
+    "corrected_text": "The general opinion is that brand loyalty is dead.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961694"
+  },
+  {
+    "biased_text": "The best performers all share unwavering confidence, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share unwavering confidence, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961704"
+  },
+  {
+    "biased_text": "The best performers all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961713"
+  },
+  {
+    "biased_text": "It's clear that experience matters most - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that experience matters most - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961723"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961733"
+  },
+  {
+    "biased_text": "Everyone knows that education guarantees success is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that education expectations success is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961744"
+  },
+  {
+    "biased_text": "The general opinion is that brand loyalty is dead.",
+    "corrected_text": "The general opinion is that brand loyalty is dead.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961753"
+  },
+  {
+    "biased_text": "Since the controversy, obviously old rules don't apply.",
+    "corrected_text": "While recent events are notable, historical patterns show Since the controversy, evidence indicates old rules don't apply.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961763"
+  },
+  {
+    "biased_text": "The best performers all share unwavering confidence, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share unwavering confidence, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961772"
+  },
+  {
+    "biased_text": "Every top founder did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961782"
+  },
+  {
+    "biased_text": "Current market sentiment indicate the pattern will repeat.",
+    "corrected_text": "Current market sentiment indicate the pattern may repeat.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961793"
+  },
+  {
+    "biased_text": "It's clear that luck plays no role - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that luck plays no role - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961804"
+  },
+  {
+    "biased_text": "With what happened this month, it's certain that trends will continue indefinitely.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened this month, it's certain that trends may continue inlikely.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961817"
+  },
+  {
+    "biased_text": "Following the viral news story, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral news story, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961827"
+  },
+  {
+    "biased_text": "Based on our first impression of quality, looks optimal.",
+    "corrected_text": "Based on our first impression of quality, looks optimal.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961837"
+  },
+  {
+    "biased_text": "Conventional wisdom says our approach is superior.",
+    "corrected_text": "Conventional wisdom says our approach is superior.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961847"
+  },
+  {
+    "biased_text": "Relative to the initial proposal, this changes are permanent is acceptable.",
+    "corrected_text": "Relative to the initial proposal, this changes are permanent is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961857"
+  },
+  {
+    "biased_text": "The best performers all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best performers many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961866"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961877"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that dropped out of college.",
+    "corrected_text": "Yesterday's election results indicates that dropped out of college.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961891"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of $100, $120 seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of $100, $120 seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961902"
+  },
+  {
+    "biased_text": "The latest findings prove this approach.",
+    "corrected_text": "The latest findings prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961911"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of $100, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of $100, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961921"
+  },
+  {
+    "biased_text": "Most experts agree that markets are efficient.",
+    "corrected_text": "Most experts agree that markets are efficient.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961930"
+  },
+  {
+    "biased_text": "The latest numbers prove our strategy.",
+    "corrected_text": "The latest numbers prove our strategy.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.961941"
+  },
+  {
+    "biased_text": "Starting from last year, our strategy makes sense.",
+    "corrected_text": "Starting from last year, our strategy makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961952"
+  },
+  {
+    "biased_text": "Every top founder did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961962"
+  },
+  {
+    "biased_text": "The general opinion is that quality always wins.",
+    "corrected_text": "The general opinion is that quality often wins.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961971"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate the pattern will repeat.",
+    "corrected_text": "Current consumer behavior indicate the pattern may repeat.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.961981"
+  },
+  {
+    "biased_text": "Yesterday's product launch confirms that worked 80-hour weeks.",
+    "corrected_text": "Yesterday's product launch indicates that worked 80-hour weeks.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.961991"
+  },
+  {
+    "biased_text": "Winners in business universally embrace failure.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in business commonly embrace failure.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962002"
+  },
+  {
+    "biased_text": "Based on the stock market crash, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the stock market crash, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962013"
+  },
+  {
+    "biased_text": "The latest findings prove our strategy.",
+    "corrected_text": "The latest findings prove our strategy.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962022"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962032"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of $100, 6 years seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of $100, 6 years seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962042"
+  },
+  {
+    "biased_text": "Yesterday's market volatility confirms that dropped out of college.",
+    "corrected_text": "Yesterday's market volatility indicates that dropped out of college.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962052"
+  },
+  {
+    "biased_text": "Winners in sports universally trust intuition.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in sports commonly trust intuition.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962062"
+  },
+  {
+    "biased_text": "The latest findings prove our strategy.",
+    "corrected_text": "The latest findings prove our strategy.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962070"
+  },
+  {
+    "biased_text": "Given the recent market volatility, we can conclude that similar outcomes are inevitable.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent market volatility, we can conclude that similar outcomes are inevitable.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962082"
+  },
+  {
+    "biased_text": "Looking at successful athletes, they all dropped out of college.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful athletes, they many dropped out of college.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962092"
+  },
+  {
+    "biased_text": "Based on the stock market crash, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on the stock market crash, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962102"
+  },
+  {
+    "biased_text": "Yesterday's market volatility confirms that worked 80-hour weeks.",
+    "corrected_text": "Yesterday's market volatility indicates that worked 80-hour weeks.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962114"
+  },
+  {
+    "biased_text": "Yesterday's election results confirms that worked 80-hour weeks.",
+    "corrected_text": "Yesterday's election results indicates that worked 80-hour weeks.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962124"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate the pattern will repeat.",
+    "corrected_text": "Current consumer behavior indicate the pattern may repeat.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962134"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 50 units, $120 seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 50 units, $120 seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962143"
+  },
+  {
+    "biased_text": "Conventional wisdom says this is the only way.",
+    "corrected_text": "Conventional wisdom says this is the only way.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962152"
+  },
+  {
+    "biased_text": "Looking at successful entrepreneurs, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful entrepreneurs, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962162"
+  },
+  {
+    "biased_text": "Winners in business universally embrace failure.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in business commonly embrace failure.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962172"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that alternatives don't work without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that alternatives don't work with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962185"
+  },
+  {
+    "biased_text": "Current market sentiment indicate this is the new normal.",
+    "corrected_text": "Current market sentiment indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962195"
+  },
+  {
+    "biased_text": "Yesterday's market volatility confirms that dropped out of college.",
+    "corrected_text": "Yesterday's market volatility indicates that dropped out of college.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962205"
+  },
+  {
+    "biased_text": "It's widely accepted that innovation requires risk.",
+    "corrected_text": "It's widely accepted that innovation requires risk.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962215"
+  },
+  {
+    "biased_text": "Given the recent product launch, we can conclude that similar outcomes are inevitable.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent product launch, we can conclude that similar outcomes are inevitable.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962229"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962239"
+  },
+  {
+    "biased_text": "Starting from market average, our strategy makes sense.",
+    "corrected_text": "Starting from market average, our strategy makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962249"
+  },
+  {
+    "biased_text": "This week's sales figures shows that market growth will continue.",
+    "corrected_text": "This week's sales figures shows that market growth may continue.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962259"
+  },
+  {
+    "biased_text": "Based on Tesla's success, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on Tesla's success, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962270"
+  },
+  {
+    "biased_text": "Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral celebrity endorsement, clearly the market has changed forever.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962281"
+  },
+  {
+    "biased_text": "It's clear that luck plays no role - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that luck plays no role - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962291"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962300"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962308"
+  },
+  {
+    "biased_text": "Every top founder did network extensively to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did network extensively to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962317"
+  },
+  {
+    "biased_text": "Every top executive did fail multiple times to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top executive did fail multiple times to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962327"
+  },
+  {
+    "biased_text": "Everyone knows that startups always fail is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that startups often fail is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962337"
+  },
+  {
+    "biased_text": "Based on COVID-19, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on COVID-19, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962347"
+  },
+  {
+    "biased_text": "Looking at successful CEOs, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful CEOs, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962358"
+  },
+  {
+    "biased_text": "This week's sales figures shows that customer interest will continue.",
+    "corrected_text": "This week's sales figures shows that customer interest may continue.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962370"
+  },
+  {
+    "biased_text": "Conventional wisdom says our approach is superior.",
+    "corrected_text": "Conventional wisdom says our approach is superior.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962379"
+  },
+  {
+    "biased_text": "Based on our first impression of potential, appears reasonable.",
+    "corrected_text": "Based on our first impression of potential, appears reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962389"
+  },
+  {
+    "biased_text": "This week's performance metrics shows that customer interest will continue.",
+    "corrected_text": "This week's performance metrics shows that customer interest may continue.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962399"
+  },
+  {
+    "biased_text": "Yesterday's product launch confirms that worked 80-hour weeks.",
+    "corrected_text": "Yesterday's product launch indicates that worked 80-hour weeks.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962408"
+  },
+  {
+    "biased_text": "Current market sentiment indicate this is the new normal.",
+    "corrected_text": "Current market sentiment indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962418"
+  },
+  {
+    "biased_text": "The latest results prove this outcome.",
+    "corrected_text": "The latest results prove this outcome.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962427"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "corrected_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962439"
+  },
+  {
+    "biased_text": "The best leaders all share aggressive ambition, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best leaders many share aggressive ambition, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962449"
+  },
+  {
+    "biased_text": "Current economic indicators indicate this is the new normal.",
+    "corrected_text": "Current economic indicators indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962459"
+  },
+  {
+    "biased_text": "Relative to original estimate, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to original estimate, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962471"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962481"
+  },
+  {
+    "biased_text": "Relative to original estimate, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to original estimate, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962490"
+  },
+  {
+    "biased_text": "Everyone knows that AI will replace all jobs is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that AI may replace many jobs is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962500"
+  },
+  {
+    "biased_text": "Starting from market average, this approach makes sense.",
+    "corrected_text": "Starting from market average, this approach makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962510"
+  },
+  {
+    "biased_text": "Everyone knows that education guarantees success is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that education expectations success is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962520"
+  },
+  {
+    "biased_text": "It's clear that innovation requires risk - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that innovation requires risk - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962531"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962542"
+  },
+  {
+    "biased_text": "The latest results prove this approach.",
+    "corrected_text": "The latest results prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962551"
+  },
+  {
+    "biased_text": "This week's performance metrics shows that market growth will continue.",
+    "corrected_text": "This week's performance metrics shows that market growth may continue.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962561"
+  },
+  {
+    "biased_text": "With what happened this month, it's certain that trends will continue indefinitely.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened this month, it's certain that trends may continue inlikely.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962577"
+  },
+  {
+    "biased_text": "Starting from last year, this outcome makes sense.",
+    "corrected_text": "Starting from last year, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962594"
+  },
+  {
+    "biased_text": "Based on Tesla's success, it's obvious that this outcome always happens.",
+    "corrected_text": "Evidence suggests (with limitations): Based on Tesla's success, it's obvious that this outcome often happens.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962607"
+  },
+  {
+    "biased_text": "The general opinion is that brand loyalty is dead.",
+    "corrected_text": "The general opinion is that brand loyalty is dead.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962615"
+  },
+  {
+    "biased_text": "Looking at successful investors, they all worked 80-hour weeks.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful investors, they many worked 80-hour weeks.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962627"
+  },
+  {
+    "biased_text": "Relative to first quote, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to first quote, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962637"
+  },
+  {
+    "biased_text": "Most experts agree that markets are efficient.",
+    "corrected_text": "Most experts agree that markets are efficient.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962646"
+  },
+  {
+    "biased_text": "Based on our first impression of quality, appears reasonable.",
+    "corrected_text": "Based on our first impression of quality, appears reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962656"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 50 units, 6 years seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 50 units, 6 years seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962666"
+  },
+  {
+    "biased_text": "Since that viral post, obviously everything has changed.",
+    "corrected_text": "While recent events are notable, historical patterns show Since that viral post, evidence indicates mostthing has changed.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962677"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962688"
+  },
+  {
+    "biased_text": "The general opinion is that quality always wins.",
+    "corrected_text": "The general opinion is that quality often wins.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962697"
+  },
+  {
+    "biased_text": "With what happened recently, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened recently, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962708"
+  },
+  {
+    "biased_text": "Winners in technology universally trust intuition.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in technology commonly trust intuition.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962718"
+  },
+  {
+    "biased_text": "The latest numbers prove our strategy.",
+    "corrected_text": "The latest numbers prove our strategy.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962727"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962736"
+  },
+  {
+    "biased_text": "Most experts agree that markets are efficient.",
+    "corrected_text": "Most experts agree that markets are efficient.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962744"
+  },
+  {
+    "biased_text": "It's clear that innovation requires risk - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that innovation requires risk - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962755"
+  },
+  {
+    "biased_text": "Relative to the initial proposal, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to the initial proposal, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962765"
+  },
+  {
+    "biased_text": "Based on our first impression of capabilities, looks optimal.",
+    "corrected_text": "Based on our first impression of capabilities, looks optimal.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962775"
+  },
+  {
+    "biased_text": "Given the recent product launch, we can conclude that similar outcomes are inevitable.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent product launch, we can conclude that similar outcomes are inevitable.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962786"
+  },
+  {
+    "biased_text": "Following the viral celebrity endorsement, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral celebrity endorsement, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962797"
+  },
+  {
+    "biased_text": "Every top founder did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top founder did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962807"
+  },
+  {
+    "biased_text": "The general opinion is that quality always wins.",
+    "corrected_text": "The general opinion is that quality often wins.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962815"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that this is the only way without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that this is the only way with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962826"
+  },
+  {
+    "biased_text": "Everyone knows that AI will replace all jobs is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that AI may replace many jobs is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962836"
+  },
+  {
+    "biased_text": "The general opinion is that first-mover advantage matters.",
+    "corrected_text": "The general opinion is that first-mover advantage matters.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962844"
+  },
+  {
+    "biased_text": "With what happened last quarter, it's certain that trends will continue indefinitely.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened last quarter, it's certain that trends may continue inlikely.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962856"
+  },
+  {
+    "biased_text": "Every top executive did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top executive did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962866"
+  },
+  {
+    "biased_text": "Based on our first impression of capabilities, appears reasonable.",
+    "corrected_text": "Based on our first impression of capabilities, appears reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962875"
+  },
+  {
+    "biased_text": "It's clear that innovation requires risk - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that innovation requires risk - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962885"
+  },
+  {
+    "biased_text": "Following the viral social media campaign, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral social media campaign, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962896"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "corrected_text": "Current consumer behavior indicate similar outcomes are inevitable.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962906"
+  },
+  {
+    "biased_text": "The best companies all share unwavering confidence, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best companies many share unwavering confidence, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.962917"
+  },
+  {
+    "biased_text": "Starting from last year, this approach makes sense.",
+    "corrected_text": "Starting from last year, this approach makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962927"
+  },
+  {
+    "biased_text": "Everyone knows that startups always fail is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that startups often fail is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962938"
+  },
+  {
+    "biased_text": "Conventional wisdom says alternatives don't work.",
+    "corrected_text": "Conventional wisdom says alternatives don't work.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962949"
+  },
+  {
+    "biased_text": "The general opinion is that quality always wins.",
+    "corrected_text": "The general opinion is that quality often wins.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962958"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of $100, $120 seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of $100, $120 seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962968"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.962978"
+  },
+  {
+    "biased_text": "It's clear that luck plays no role - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that luck plays no role - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962988"
+  },
+  {
+    "biased_text": "Everyone knows that education guarantees success is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that education expectations success is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.962997"
+  },
+  {
+    "biased_text": "Winners in technology universally challenge norms.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in technology commonly chmanyenge norms.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963010"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963018"
+  },
+  {
+    "biased_text": "Following the viral social media campaign, clearly the market has changed forever.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral social media campaign, clearly the market has changed forever.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963029"
+  },
+  {
+    "biased_text": "This week's performance metrics shows that market growth will continue.",
+    "corrected_text": "This week's performance metrics shows that market growth may continue.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963039"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963048"
+  },
+  {
+    "biased_text": "It's clear that experience matters most - the evidence overwhelmingly supports this.",
+    "corrected_text": "Evidence suggests (with limitations): It's clear that experience matters most - the evidence substantimanyy supports this.",
+    "bias_type": "confirmation_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963058"
+  },
+  {
+    "biased_text": "Winners in sports universally trust intuition.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in sports commonly trust intuition.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963068"
+  },
+  {
+    "biased_text": "Given the recent election results, we can conclude that the pattern will repeat.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent election results, we can conclude that the pattern may repeat.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963080"
+  },
+  {
+    "biased_text": "Looking at successful CEOs, they all dropped out of college.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Looking at successful CEOs, they many dropped out of college.",
+    "bias_type": "survivorship_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963090"
+  },
+  {
+    "biased_text": "Given the recent election results, we can conclude that the pattern will repeat.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent election results, we can conclude that the pattern may repeat.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963099"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963109"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 5 years, 6 years seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 5 years, 6 years seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963119"
+  },
+  {
+    "biased_text": "Most experts agree that remote work is better.",
+    "corrected_text": "Most experts agree that remote work is better.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963127"
+  },
+  {
+    "biased_text": "Based on our first impression of quality, appears reasonable.",
+    "corrected_text": "Based on our first impression of quality, appears reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963138"
+  },
+  {
+    "biased_text": "Current consumer behavior indicate this is the new normal.",
+    "corrected_text": "Current consumer behavior indicate this is the new normal.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963148"
+  },
+  {
+    "biased_text": "Given the recent election results, we can conclude that this is the new normal.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent election results, we can conclude that this is the new normal.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963158"
+  },
+  {
+    "biased_text": "It's widely accepted that luck plays no role.",
+    "corrected_text": "It's widely accepted that luck plays no role.",
+    "bias_type": "groupthink",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963178"
+  },
+  {
+    "biased_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "corrected_text": "Compared to the initial estimate of 50 units, 60 units seems reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963188"
+  },
+  {
+    "biased_text": "Every top executive did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top executive did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963198"
+  },
+  {
+    "biased_text": "The latest numbers prove our strategy.",
+    "corrected_text": "The latest numbers prove our strategy.",
+    "bias_type": "recency_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963209"
+  },
+  {
+    "biased_text": "Starting from competitor pricing, this outcome makes sense.",
+    "corrected_text": "Starting from competitor pricing, this outcome makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963219"
+  },
+  {
+    "biased_text": "Following the viral social media campaign, clearly everyone thinks this way.",
+    "corrected_text": "While recent events are notable, historical patterns show Following the viral social media campaign, clearly mostone thinks this way.",
+    "bias_type": "availability_heuristic",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963229"
+  },
+  {
+    "biased_text": "Starting from competitor pricing, our strategy makes sense.",
+    "corrected_text": "Starting from competitor pricing, our strategy makes sense.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963245"
+  },
+  {
+    "biased_text": "The latest results prove this approach.",
+    "corrected_text": "The latest results prove this approach.",
+    "bias_type": "recency_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963254"
+  },
+  {
+    "biased_text": "Relative to the initial proposal, this trends will continue indefinitely is acceptable.",
+    "corrected_text": "Relative to the initial proposal, this trends may continue inlikely is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963265"
+  },
+  {
+    "biased_text": "Every top scientist did think differently to succeed.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Every top scientist did think differently to succeed.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963275"
+  },
+  {
+    "biased_text": "Current market sentiment indicate similar outcomes are inevitable.",
+    "corrected_text": "Current market sentiment indicate similar outcomes are inevitable.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963285"
+  },
+  {
+    "biased_text": "Given the recent election results, we can conclude that the pattern will repeat.",
+    "corrected_text": "While recent events are notable, historical patterns show Given the recent election results, we can conclude that the pattern may repeat.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963295"
+  },
+  {
+    "biased_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "corrected_text": "Relative to original estimate, this changes are permanent is acceptable.",
+    "bias_type": "anchoring_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963305"
+  },
+  {
+    "biased_text": "The latest numbers prove our strategy.",
+    "corrected_text": "The latest numbers prove our strategy.",
+    "bias_type": "recency_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963314"
+  },
+  {
+    "biased_text": "Based on our first impression of potential, appears reasonable.",
+    "corrected_text": "Based on our first impression of potential, appears reasonable.",
+    "bias_type": "anchoring_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963323"
+  },
+  {
+    "biased_text": "The best leaders all share early adoption, so you should too.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: The best leaders many share early adoption, so you should too.",
+    "bias_type": "survivorship_bias",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963334"
+  },
+  {
+    "biased_text": "Everyone knows that AI will replace all jobs is definitely true.",
+    "corrected_text": "Evidence suggests (with limitations): Everyone knows that AI may replace many jobs is likely true.",
+    "bias_type": "confirmation_bias",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963345"
+  },
+  {
+    "biased_text": "Since that viral post, obviously old rules don't apply.",
+    "corrected_text": "While recent events are notable, historical patterns show Since that viral post, evidence indicates old rules don't apply.",
+    "bias_type": "availability_heuristic",
+    "severity": "medium",
+    "timestamp": "2025-10-22T08:21:22.963356"
+  },
+  {
+    "biased_text": "Winners in sports universally challenge norms.",
+    "corrected_text": "Though successful cases show this pattern, failure rates should be considered: Winners in sports commonly chmanyenge norms.",
+    "bias_type": "survivorship_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963366"
+  },
+  {
+    "biased_text": "With what happened recently, it's certain that changes are permanent.",
+    "corrected_text": "While recent events are notable, historical patterns show With what happened recently, it's certain that changes are permanent.",
+    "bias_type": "availability_heuristic",
+    "severity": "critical",
+    "timestamp": "2025-10-22T08:21:22.963376"
+  },
+  {
+    "biased_text": "{Topic} certainly proves that our approach is superior without any doubt.",
+    "corrected_text": "Evidence suggests (with limitations): {Topic} probably suggests that our approach is superior with reasonable confidence.",
+    "bias_type": "confirmation_bias",
+    "severity": "high",
+    "timestamp": "2025-10-22T08:21:22.963386"
+  }
+]
