@@ -1,4 +1,7 @@
+// eslint-disable-next-line
+
 import React, { useState } from "react";
+import { BiasAPI } from "./api-client";
 import {
   Brain,
   AlertTriangle,
@@ -33,7 +36,6 @@ import {
   Pie,
   Cell,
 } from "recharts";
-import { BiasAPI } from "./api-client";
 
 const CognitiveBiasAI = () => {
   const [activeTab, setActiveTab] = useState("detection");
@@ -194,6 +196,8 @@ const CognitiveBiasAI = () => {
       // Call REAL API
       const result = await BiasAPI.fullAnalysis(testInput);
 
+      console.log("API Response:", result); // Debug log
+
       setAnalysisResult({
         input: testInput,
         biasesDetected: result.detection.biases_detected,
@@ -206,7 +210,7 @@ const CognitiveBiasAI = () => {
       });
     } catch (error) {
       console.error("Analysis failed:", error);
-      alert("API Error: Make sure Python API is running on port 5000!");
+      alert("API Error: " + error.message);
     }
 
     setIsAnalyzing(false);
